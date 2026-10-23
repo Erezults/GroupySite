@@ -50,4 +50,28 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://groupy-web.erezults.com/en/accessibility.html"/>
     <priority>0.3</priority>
   </url>
+  <url>
+    <loc>https://groupy-web.erezults.com/terms.html</loc>
+    <xhtml:link rel="alternate" hreflang="he" href="https://groupy-web.erezults.com/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://groupy-web.erezults.com/en/terms.html"/>
+    <priority>0.4</priority>
+  </url>
+  <url>
+    <loc>https://groupy-web.erezults.com/en/terms.html</loc>
+    <xhtml:link rel="alternate" hreflang="he" href="https://groupy-web.erezults.com/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://groupy-web.erezults.com/en/terms.html"/>
+    <priority>0.4</priority>
+  </url>
+  <url>
+    <loc>https://groupy-web.erezults.com/support.html</loc>
+    <xhtml:link rel="alternate" hreflang="he" href="https://groupy-web.erezults.com/support.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://groupy-web.erezults.com/en/support.html"/>
+    <priority>0.4</priority>
+  </url>
+  <url>
+    <loc>https://groupy-web.erezults.com/en/support.html</loc>
+    <xhtml:link rel="alternate" hreflang="he" href="https://groupy-web.erezults.com/support.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://groupy-web.erezults.com/en/support.html"/>
+    <priority>0.4</priority>
+  </url>
 </urlset>
